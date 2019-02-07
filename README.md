@@ -3,11 +3,9 @@
 Password-manager is a simple and trivial password manager. It's a learn with fun project.
 
 ## Installation
-If your computer doesn't have installed python:
-```https://www.python.org/downloads/```
+If your computer doesn't have installed python, get a guideline to [install python](https://www.python.org/downloads/).
 
-If your computer doesn't have installed pip:
-```https://pip.pypa.io/en/stable/installing/```
+If your computer doesn't have installed pip, get a guideline to [install pip](https://pip.pypa.io/en/stable/installing/).
 
 If your computer doesn't have installed pyperclip:
 ```pip install pyperclip```
