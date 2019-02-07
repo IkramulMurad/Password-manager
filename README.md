@@ -15,7 +15,9 @@ pip install pyperclip
 2. Type ```python pw.py [account]``` and enter
 
 ### Example
-```python pw.py blog```
+```bash
+python pw.py blog
+```
 
 ## Note
 It is recommended to use ```python3``` command instead of ```python``` command. Also ```pip3``` instead of ```pip```.
