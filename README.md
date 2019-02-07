@@ -20,5 +20,5 @@ If your computer doesn't have installed pyperclip:
 ```python pw.py blog```
 
 ## Note
-It is recommended to use ```python3``` command instead of ```python``` command. And so for ```pip3``` instead of ```pip```.
+It is recommended to use ```python3``` command instead of ```python``` command. Also ```pip3``` instead of ```pip```.
 
