@@ -8,6 +8,12 @@ Password-manager is a simple and trivial password manager. It's a learn with fun
 3. If your computer doesn't have installed pyperclip:
 ```pip install pyperclip```
 
+### Additional
+If you are using ubuntu, run the following command to install ```xclip```:
+```bash
+sudo apt-get install xclip
+```
+
 ## Run
 1. Open ```cmd``` or ```Terminal``` in you computer
 2. Type ```python pw.py [account]``` and enter
